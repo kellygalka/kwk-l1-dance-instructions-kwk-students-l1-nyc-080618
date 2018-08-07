@@ -15,4 +15,5 @@ def skip_step(starting_foot)
   put "Briefly raise the opposite foot, then the #{starting_foot} twice more"
 end
 
-def
+def bob_the_reins
+  put
