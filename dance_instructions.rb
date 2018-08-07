@@ -18,4 +18,8 @@ end
 def bob_the_reins
   put "Holding your arms out in front of you, straight and at chest level"
   put "Cross your right wrist over your left and hold them together"
-  put ""
+  put "Lift your arms up and down in a loose bouncing movement, in time with the beat of the song. This movement is repeated eight times."
+  put "Do this 7 more times!"
+  
+  def lasso 
+    put ""
