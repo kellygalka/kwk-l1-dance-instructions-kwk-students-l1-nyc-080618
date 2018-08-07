@@ -17,4 +17,5 @@ end
 
 def bob_the_reins
   put "Holding your arms out in front of you, straight and at chest level"
+  put "Cross your right wrist over your left and hold them together"
   put ""
