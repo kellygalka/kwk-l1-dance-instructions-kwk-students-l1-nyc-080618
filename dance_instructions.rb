@@ -13,3 +13,6 @@ def skip_step(starting_foot)
   put "lower #{starting_foot} to the ground"
   put "Bounce #{staring_foot} back up slightly, kicking it a few inches back"
   put "Briefly raise the opposite foot, then the #{starting_foot} twice more"
+end
+
+def
