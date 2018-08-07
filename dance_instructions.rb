@@ -16,4 +16,5 @@ def skip_step(starting_foot)
 end
 
 def bob_the_reins
+  put "Holding your arms out in front of you, straight and at chest level"
   put
